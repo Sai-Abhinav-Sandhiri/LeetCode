@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Sai-Abhinav-Sandhiri/LeetCode/tree/master/0101-symmetric-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Sai-Abhinav-Sandhiri/LeetCode/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Sai-Abhinav-Sandhiri/LeetCode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
