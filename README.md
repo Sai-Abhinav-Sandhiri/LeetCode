@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sai-Abhinav-Sandhiri/LeetCode/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/Sai-Abhinav-Sandhiri/LeetCode/tree/master/0056-merge-intervals) |
 | [0605-can-place-flowers](https://github.com/Sai-Abhinav-Sandhiri/LeetCode/tree/master/0605-can-place-flowers) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Sai-Abhinav-Sandhiri/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Binary Search
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Sai-Abhinav-Sandhiri/LeetCode/tree/master/0056-merge-intervals) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Sai-Abhinav-Sandhiri/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
